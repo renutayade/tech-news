@@ -1,0 +1,12 @@
+[
+    {
+        "name": "InfoQ",
+        "category":"AI & Data",
+        "url": "https://infoq.com/feed/"
+    },
+    {
+    "name": "Hacker News",
+    "category": "Data",
+    "url": "https://hnrss.org/frontpage"
+    }
+]
